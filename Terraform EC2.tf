@@ -1,4 +1,4 @@
-rovider "aws" {
+Provider "aws" {
   region = "ap-south-1"  # Mumbai region
 }
 
